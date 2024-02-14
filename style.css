@@ -4,3 +4,11 @@ body {
     border-style: double;
     border-color: rgb(51,0,102,0.8);
 }
+
+h1 {
+    border-style: double;
+    border-width: thick;
+    border-color: rgb(51,0,102,0.8);
+
+    text-align: center;
+}
