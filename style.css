@@ -2,6 +2,7 @@ body {
     background-color: rgb(51,0,102,0.4);
 
     border-style: double;
+    border-width: thick;
     border-color: rgb(51,0,102,0.8);
 }
 
